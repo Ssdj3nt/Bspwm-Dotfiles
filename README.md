@@ -1,2 +1,2 @@
 # Bspwm-Dotfiles
-Bspwm tiling windows manager dotfiles for minimal configurations.
+Bspwm tiling windows manager dotfiles for minimal configuration.
